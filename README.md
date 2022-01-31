@@ -1,1 +1,1 @@
-# Pupps-Paws_Adoption_App
+# PuppsAndPaws_Adoption_App
